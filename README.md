@@ -1,5 +1,8 @@
 # Deep Learning Resources
-I'd love to get a list of the best resources available for getting involved in Deep Learning. If you know of any good resources, please submit them in a pull request or open an issue!
+I'd love to get a list of the best resources available for getting involved in Deep Learning. If you know of any good resources, please submit them in a pull request!
+
+## Watching
++ [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
 
 ## Reading
 + [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
