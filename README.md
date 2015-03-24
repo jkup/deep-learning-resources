@@ -3,6 +3,7 @@ I'd love to get a list of the best resources available for getting involved in D
 
 ## Watching
 + [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
++ [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 
 ## Reading
 + [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
